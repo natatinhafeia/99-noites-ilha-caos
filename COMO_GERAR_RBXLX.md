@@ -62,7 +62,7 @@ Copie cada arquivo `.lua` para sua localização correta:
 - [ ] RemoteFunction foi criada (RequestGameState)
 - [ ] Workspace tem pastas: Map, SpawnPoints, PartSpawns, GameParts
 
-## 🎯 Teste Rápido
+## 🎮 Teste Rápido
 
 Antes de salvar como .rbxlx:
 
