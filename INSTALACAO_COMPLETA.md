@@ -170,7 +170,7 @@ Agora você precisa copiar os scripts Lua para suas localizações corretas.
 ### Timer não aparece na tela
 **Solução:** Verifique se o `ScreenGui` tem um `Frame` chamado `InfoPanel` com um `TextLabel` chamado `TimerLabel`.
 
-### Erro ao executar: "Esperado '>=' mas encontrado 'end'"
+### Erro ao executar: "Esperado '>='' mas encontrado 'end'"
 **Solução:** Há um erro de sintaxe Lua. Copie o script novamente verificando que não há caracteres cortados.
 
 ### Jogo muito lento
@@ -208,7 +208,7 @@ ReplicatedStorage/
     ├── Utils
     └── CurrencySystem
 
-Starter Players/
+StarterPlayer/
 ├── StarterCharacterScripts/
 │   └── CharacterHandler
 └── StarterPlayerScripts/
